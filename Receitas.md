@@ -22,3 +22,11 @@
 * 4 colheres de açúcar
 * 3 xícaras de leite
 
+#### Bolo de Shanduiche Gelado
+
+* muito pão
+* bolo
+* 1 dia na geladeira
+* creme com gosto bom
+* carne
+
