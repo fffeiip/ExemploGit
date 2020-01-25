@@ -1,0 +1,4 @@
+## Sanduiche
+* Pão
+* Presunto
+* Queijo
