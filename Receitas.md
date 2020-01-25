@@ -5,6 +5,7 @@
 * Ingrediente secreto!!!
 
 ## Bolo de Chocolate
+
 #### Massa:
 
 * 3 copos de trigo
@@ -39,3 +40,4 @@
 * 1 colher (sopa) de manteiga
 * meia xícara (chá) de Chocolate em Pó NESTLÉ DOIS FRADES
 * meia xícara (chá) de chocolate granulado
+
